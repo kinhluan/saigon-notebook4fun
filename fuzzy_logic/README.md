@@ -49,11 +49,11 @@ Yellow is fixed at 3 seconds. Red time auto-calculated based on opposite axis.
 
 ## Why Fuzzy?
 
-✅ Adapts to real traffic patterns
-✅ Reduces wait time (15-30% better than fixed)
-✅ Handles asymmetric traffic
-✅ No complex math model needed
-✅ Works with imprecise sensor data
+- Adapts to real traffic patterns
+- Reduces wait time (15-30% better than fixed)
+- Handles asymmetric traffic
+- No complex math model needed
+- Works with imprecise sensor data
 
 ## Features
 
